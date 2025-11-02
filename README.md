@@ -13,4 +13,6 @@ Include **icone e font personalizzati**.
 - Determinazione automatica del vincitore (righe, colonne e diagonali)
 - Alternanza dei turni tra X e O
 
+- poi farò il read.me fatto bene
+
 **Work in progress**
