@@ -24,7 +24,7 @@ public class TicTacToe implements ActionListener {
         frame.getContentPane().setBackground(Color.BLACK);
 
         try {
-            java.net.URL iconURL = getClass().getResource("/photos/iconaTris.png");
+            java.net.URL iconURL = getClass().getResource("/photos/icon.png");
             if (iconURL == null) throw new Exception("Icona non trovata nel classpath!");
             Image icon = Toolkit.getDefaultToolkit().getImage(iconURL);
             frame.setIconImage(icon);
